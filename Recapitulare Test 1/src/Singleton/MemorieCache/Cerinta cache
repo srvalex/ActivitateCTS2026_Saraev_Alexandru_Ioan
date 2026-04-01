@@ -1,0 +1,2 @@
+Sistemul de operare are nevoie de un mecanism prin care sa populeze memoria cache cu cele mai recente informatii utilizate.
+Exista o singura instanta de memeorie, care este populata si refolosita pe intregul timp de utilizare al calculatorului.

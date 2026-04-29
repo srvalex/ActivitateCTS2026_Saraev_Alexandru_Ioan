@@ -1,4 +1,4 @@
-package SimpleFactory2.fabrica;
+package SimpleFactory_turned_FactoryMethod.fabrica;
 
 public enum NOTIFICARE_MOBILE implements NOTIFICARE{
     SMS,

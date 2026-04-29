@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CTS.iml" filepath="$PROJECT_DIR$/.idea/CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recap test 2/Recap test 2.iml" filepath="$PROJECT_DIR$/Recap test 2/Recap test 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recapitulare Test 1/Recapitulare Test 1.iml" filepath="$PROJECT_DIR$/Recapitulare Test 1/Recapitulare Test 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Root CTS/src/Root CTS.iml" filepath="$PROJECT_DIR$/Root CTS/src/Root CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Root CTS/Root CTS2.iml" filepath="$PROJECT_DIR$/Root CTS/Root CTS2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model_test/model_test.iml" filepath="$PROJECT_DIR$/model_test/model_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar 8/seminar 8.iml" filepath="$PROJECT_DIR$/seminar 8/seminar 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar2_1098/seminar2_1098.iml" filepath="$PROJECT_DIR$/seminar2_1098/seminar2_1098.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar4/seminar4.iml" filepath="$PROJECT_DIR$/seminar4/seminar4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5/seminar5.iml" filepath="$PROJECT_DIR$/seminar5/seminar5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6/seminar6.iml" filepath="$PROJECT_DIR$/seminar6/seminar6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar9_recuperare/seminar9_recuperare.iml" filepath="$PROJECT_DIR$/seminar9_recuperare/seminar9_recuperare.iml" />
+    </modules>
+  </component>
+</project>

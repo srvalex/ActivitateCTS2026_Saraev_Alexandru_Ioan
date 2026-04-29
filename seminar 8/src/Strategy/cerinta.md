@@ -1,0 +1,3 @@
+Este dorită implementarea modului de plată pentru pacienții care au fost internați în spital.
+Modul de plată îl decide persoana care plătește în momentul în care trebuie să facă plata. Plata se
+poate realiza cu cardul sau cash. Sa se implementeze modulul de plata. 

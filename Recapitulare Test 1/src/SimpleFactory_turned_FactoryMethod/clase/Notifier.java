@@ -1,4 +1,4 @@
-package SimpleFactory2.clase;
+package SimpleFactory_turned_FactoryMethod.clase;
 
 
     public interface Notifier {

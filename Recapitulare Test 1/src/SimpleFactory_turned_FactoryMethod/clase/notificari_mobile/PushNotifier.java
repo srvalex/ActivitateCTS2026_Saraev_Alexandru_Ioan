@@ -1,6 +1,6 @@
-package SimpleFactory2.clase.notificari_mobile;
+package SimpleFactory_turned_FactoryMethod.clase.notificari_mobile;
 
-import SimpleFactory2.clase.Notifier;
+import SimpleFactory_turned_FactoryMethod.clase.Notifier;
 
 // PushNotifier.java
 public class PushNotifier implements Notifier {

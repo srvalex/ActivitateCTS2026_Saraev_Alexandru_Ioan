@@ -1,7 +1,7 @@
-package SimpleFactory2;
+package SimpleFactory_turned_FactoryMethod;
 
-import SimpleFactory2.clase.Notifier;
-import SimpleFactory2.fabrica.*;
+import SimpleFactory_turned_FactoryMethod.clase.Notifier;
+import SimpleFactory_turned_FactoryMethod.fabrica.*;
 
 public class Main {
     public static void main(String[] args) {

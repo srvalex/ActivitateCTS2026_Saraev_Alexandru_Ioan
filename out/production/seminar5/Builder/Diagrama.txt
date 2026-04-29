@@ -1,0 +1,15 @@
+InternareBuilderAbstarct
+
+setPatRabatabil()
+setHalat()
+setMicDejun()
+setPapuciDeCamera()
+
++ build (): Internare
+
+
+InternareBuilder Extends InternareBuilder
+
+Implementeaza metodele
+
+si genereaza clasa Internare

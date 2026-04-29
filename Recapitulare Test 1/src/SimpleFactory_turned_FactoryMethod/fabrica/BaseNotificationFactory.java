@@ -1,6 +1,6 @@
-package SimpleFactory2.fabrica;
+package SimpleFactory_turned_FactoryMethod.fabrica;
 
-import SimpleFactory2.clase.Notifier;
+import SimpleFactory_turned_FactoryMethod.clase.Notifier;
 
 public interface BaseNotificationFactory{
     Notifier getNotificare(NOTIFICARE type);

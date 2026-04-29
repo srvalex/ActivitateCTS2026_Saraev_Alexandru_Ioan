@@ -1,0 +1,22 @@
+3p Lucrezi la un modul AI care va fi instalat pe drone pentru a le permite să fie autonome.
+Clasa care gestionează modulul AI se numește AutonomousDriving. În faza de testare,
+multe instanțe ale aceleiași versiuni de modul AI sunt create. Implementarea actuală necesită
+mult timp pentru instanțierea entităților AI. Implementează o soluție care să rezolve această
+problemă, permițând dezvoltatorilor să creeze rapid noi instanțe ale modulelor AI. Deoarece
+există diferite versiuni (cel puțin 2 sau 3) ale modulului AI, implementează o soluție care să
+permită dezvoltatorilor să creeze rapid copii ale acestora.
+
+1.5p Să se testeze soluția prin crearea a cel puțin 5 obiecte din 3 versiuni de AI diferite. Să se
+utilizeze regulile de decizie într-un context dat.
+
+
+3p Modulul de comunicație al dronei trebuie să fie implementat printr-o singură instanță a
+clasei DroneConnection, deoarece conexiunea la dronă gestionează centralizat resursele de
+comunicație. Clasa trebuie să implementeze interfața IDroneConnection. Pentru fiecare
+utilizator care se conectează la dronă, sistemul trebuie să aloce un canal unic de comunicare
+dedicat acestuia.
+
+
+1.5p Să se testeze soluția prin conectarea mai multor utilizatori, alocarea câte unui canal unic
+pentru fiecare și demonstrarea faptului că toate operațiile sunt gestionate prin aceeași instanță
+DroneConnection.

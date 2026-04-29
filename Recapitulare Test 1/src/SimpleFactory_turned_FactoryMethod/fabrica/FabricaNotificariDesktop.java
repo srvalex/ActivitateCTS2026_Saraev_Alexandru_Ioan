@@ -1,8 +1,8 @@
-package SimpleFactory2.fabrica;
+package SimpleFactory_turned_FactoryMethod.fabrica;
 
-import SimpleFactory2.clase.Notifier;
-import SimpleFactory2.clase.notificari_desktop.AlertNotification;
-import SimpleFactory2.clase.notificari_desktop.PopUpNotifier;
+import SimpleFactory_turned_FactoryMethod.clase.Notifier;
+import SimpleFactory_turned_FactoryMethod.clase.notificari_desktop.AlertNotification;
+import SimpleFactory_turned_FactoryMethod.clase.notificari_desktop.PopUpNotifier;
 
 public class FabricaNotificariDesktop implements BaseNotificationFactory{
 

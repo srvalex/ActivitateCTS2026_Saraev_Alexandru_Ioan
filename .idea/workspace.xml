@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97d958ba-4acd-4d22-8b4c-81e38b0af6b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Root CTS/Root CTS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Root CTS/Root CTS2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Root CTS/src/Root CTS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Root CTS/src/principii_clean_code/Dizpozitive/Functionalitati/FunctiiAudio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Root CTS/src/principii_clean_code/Dizpozitive/Functionalitati/FunctiiLuminozitate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Root CTS/src/principii_clean_code/Dizpozitive/IPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Root CTS/src/principii_clean_code/Dizpozitive/Pixel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Root CTS/src/principii_clean_code/Dizpozitive/Samsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Root CTS/src/principii_clean_code/Dizpozitive/Telefon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Root CTS/src/principii_clean_code/Vanzatori/Amanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Root CTS/src/principii_clean_code/Vanzatori/Retailer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Root CTS/src/principii_clean_code/Vanzatori/Wholesaler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 10/seminar 10 (1096).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 10/src/Flyweight/cerinta.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 10/src/Flyweight/clase/Autobuz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 10/src/Flyweight/clase/FabricaLinii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 10/src/Flyweight/clase/Linie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 10/src/Flyweight/clase/LinieTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 10/src/Proxy/cerinta.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 10/src/Proxy/clase/Autobuz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 10/src/Proxy/clase/AutobuzCursaSpeciala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 10/src/Proxy/clase/AutobuzDeNoapte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 10/src/Proxy/clase/IAutobuz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 10/src/Proxy/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/seminar 11 bis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/chain_of_responsability/cerinta.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/chain_of_responsability/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/chain_of_responsability/mijloc_transport/CalatorieAutobuz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/chain_of_responsability/mijloc_transport/CalatorieMetrou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/chain_of_responsability/mijloc_transport/CalatorieTroleibuz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/chain_of_responsability/mijloc_transport/ChainHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/chain_of_responsability/mijloc_transport/Persoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/command/autobaza/Autobuz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/command/autobaza/Comanda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/command/autobaza/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/command/autobaza/Plecare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/command/cerinta.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/command/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/strategy/cerinta.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/strategy/examen/ExamenGrila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/strategy/examen/ExamenOral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/strategy/examen/ExamenScris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/strategy/examen/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/strategy/examen/SustinereExamen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 bis/src/strategy/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/seminar 11 recuperare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Command/Internare/Comanda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Command/Internare/Internare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Command/Internare/Tratare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Command/Spial/Asistenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Command/Spial/Medic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Command/Spial/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Command/Spial/PersonalSpital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Command/cerinta.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Command/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Observer/cerinta.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Observer/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Observer/spital/ICentruNotificari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Observer/spital/Notificare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Observer/spital/Pacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar 11 recuperare/src/Observer/spital/Spital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Root CTS" beforeDir="false" afterPath="$PROJECT_DIR$/Root CTS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Root CTS/src/saptamana_1_1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Root CTS/src/saptamana_1_1/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;srvalex&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/srvalex/ActivitateCTS2026_Saraev_Alexandru_Ioan&quot;,
+    &quot;accountId&quot;: &quot;35e5040f-921c-4f6a-8030-a0b571e3f5d6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3AqS8GChbSwH4jFWovHriL1jqw5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Anul 3/Sem 2/CTS/Root CTS/src/Seminar_4&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.18263811&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Seminar_4.Factory.transport.mijloaceTransport" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Anul 3\Sem 2\CTS\Root CTS\src\Seminar_4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Anul 3\Sem 2\CTS\seminar 11 bis\src\chain_of_responsability" />
+      <recent name="D:\Anul 3\Sem 2\CTS" />
+      <recent name="D:\Anul 3\Sem 2\CTS\model_test\src\Cafenea" />
+      <recent name="D:\Anul 3\Sem 2\CTS\seminar4\src" />
+      <recent name="D:\Anul 3\Sem 2\CTS\Recapitulare Test 1\src\SimpleFactory\Spital" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97d958ba-4acd-4d22-8b4c-81e38b0af6b0" name="Changes" comment="" />
+      <created>1773318445707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773318445707</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="some_branch" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

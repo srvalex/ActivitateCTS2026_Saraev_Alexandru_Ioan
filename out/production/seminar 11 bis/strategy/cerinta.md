@@ -1,0 +1,1 @@
+IN ziua de examen, studentul poate alege cum se va sustine examenul. Examenul poate fi scris, oral, pe hartie sau la calculator.

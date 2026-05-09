@@ -1,0 +1,24 @@
+Adapterul este folosit pentru a crea o legatura intre 2 aplicatii diferite, fara a adauga functionalitati noi
+
+Pt explicatia de mai jos voi folosi urmatorii termeni
+
+
+TARGET = aplicatia pe care o dezvoltam
+SURSA = aplicatia pe care vrem sa o integram in sistemul deja existent (TARGET)
+
+
+SURSA -> ADAPTER -> TARGET
+
+Exista 2 tipuri de adapter: adapter de clase, adapter de obiecte
+
+ADAPTER DE CLASE.
+Daca SURSA este o clasa si target-ul este o interfata, atunci putem folosi adapterul de clase.
+Clasa adapter va mosteni INTERFATA TARGET, cat si CLASA SURSA.
+Prin urmare, in clas ADAPTER se vor implementa metodele specifice TARGET, apelandu-le pe cele din SURSA folosind super.functieDejaImplementataInSURSA()
+
+ADAPTER DE OBIECTE
+Daca TARGET-ul este clasa concreta cu atribute, atunci nu mai putem folosi adapterul de clase deoarece nu putem face mostenire multipla
+Solutia in aceasta problema este ca ADAPTER-ul sa mosteneasca SURSA si sa aibe ca si atribut un obiect de tip TARGET, iar in adaptor,
+implementam metodele de care avem nevoie
+
+Astfel, vom putea folosi TARGET adapterSursa = new Adapter(SURSA)

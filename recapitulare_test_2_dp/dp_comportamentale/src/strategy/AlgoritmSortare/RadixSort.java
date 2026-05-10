@@ -1,0 +1,13 @@
+package strategy.AlgoritmSortare;
+
+import java.util.List;
+
+public class RadixSort implements AlgoritmSortare{
+
+    @Override
+    public void sort(List<Integer> listaNumere) {
+        System.out.println("RADIX Sort!");
+        listaNumere.stream().sorted((a,b) -> a > b ? 1 : -1).forEach(a -> System.out.print(a + " "));
+        System.out.println();
+    }
+}
